@@ -1,0 +1,34 @@
+<html>
+    <head>
+        <title>Projeto 1 HTML!</title>
+    </head>
+    <body>
+<h1 id="inicio">Testando HTML</h1>
+<hr />
+<h2>Índice</h2>
+<ul>
+    <li><a href="#Texto 1">HTML</a></li>
+    <li><a href="#Texto 2">Tags</a></li>
+    <li><a href="#Texto 3">Atributos de tags</a></li>
+    <li><a href="#Texto 4">Listas Ordenadas e não ordenadas</a></li>
+</ul>
+<h2 id="Texto 1">*HTML*</h2>
+<samll><a href="#inicio">(Voltar)</a></samll>
+<p>Descobri que ao apertar F12 no navegador posso abrir o "console" que me mostra os código HTML da página, assim posso ver qual tipo de fonte, cor e outros detalhes que foram usados para montar a estrutura visual e funcional</p>
+<p>Aprendi também a estrutura base que se inicia com <mark>HTML</mark> e depois vem <mark>HEAD</mark> que é seria aquele que é carregado primeiro, ou como eu prefiro dizer o nome da aba, em seguida vem o comando <mark>BODY</mark> que onde inserimos todo o conteudo visivel para o usuario</p>
+
+<h2 id="Texto 2">*TAGS*</h2>
+<samll><a href="#inicio">(Voltar)</a></samll>
+<p>A tag é como se fosse o comando que faz aparecer aquilo que é visivel e funcional, tem tag que deixa o texto em italico, negrito, ate mesmo negrito e italico</p>
+<p>também posso usar tags pra iserir texto, grifar texto, escolher o tamanho do texto, tem tag que cria link e por ai vai</p>
+
+<h2 id="Texto 3">*ATRIBUTOS DE TAGS*</h2>
+<samll><a href="#inicio">(Voltar)</a></samll>
+<p>Os atributos dão aquele upgrade na tag, posso usar atributos como <mark>ID</mark>, <mark>STYLE</mark>, <mark>CLASS</mark>, <mark>INPUT</mark>, e por ai vai</p>
+
+<h2 id="Texto 4">*LISTAS ORDENADAS E NÃO ORDENADAS*</h2>
+<samll><a href="#inicio">(Voltar)</a></samll>
+<p>As listas possuem 2 tipos, como esta no titulo, a lista ordenada é aquela que lista em ordem numerica 1, 2, 3 e vai embora, ja a lista não ordenada é apenas feita com aquelas bolihas pretas que são bem simples</p>
+<p>A lista ordenada é usada atraves do comando <mark>OL</mark> junto ao comando <mark>IL</mark>, ja a lista não ordenada é feita com o comando <mark>UL</mark> que também precisa se jutar ao <mark>IL</mark></p>
+    </body>
+</html>
